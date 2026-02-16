@@ -77,7 +77,7 @@ jobs:
       # UPLOAD
       # -------------------------
       - name: Upload Artifact
-        uses: actions/upload-artifact@v4
+        uses: actions/upload-artifact@v6
         with:
           name: CodeeForge-windows-portable
           path: CodeeForge-windows-portable.zip
