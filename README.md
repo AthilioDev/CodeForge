@@ -1,7 +1,7 @@
 # CodeForge — Open Source Code Editor
 
-![Feature Requests](https://img.shields.io/github/issues/CodeForge/CodeForge/feature-request.svg)
-![Bugs](https://img.shields.io/github/issues/CodeForge/CodeForge/bug.svg)
+![Feature Requests](https://img.shields.io/github/issues/AthilioDev/CodeForge/feature-request.svg)
+![Bugs](https://img.shields.io/github/issues/AthilioDev/CodeForge/bug.svg)
 ![Community Chat](https://img.shields.io/badge/chat-community-yellow.svg)
 
 ---
